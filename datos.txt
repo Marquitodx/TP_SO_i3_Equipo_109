@@ -1,1 +1,2 @@
 Nombre: Ezequiel Nandin, IP: 192.168.100.1, Hora: Jueves Nov 21 00:05:08     2024
+Nombre: Marcos Martin, IP: 192.168.1.1, Hora: 00:26 Jueves 21/11/2024

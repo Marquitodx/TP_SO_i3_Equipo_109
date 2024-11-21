@@ -1,0 +1,96 @@
+processor	: 0
+vendor_id	: GenuineIntel
+cpu family	: 6
+model: 158
+model name: Intel(R) Core(TM) i5-7400 CPU @ 3.00GHz
+stepping: 9
+microcode	: 0xB4
+cpu MHz: 3000.000
+cache size	: 6144 KB
+physical id	: 0
+siblings: 4
+core id: 0
+cpu cores: 2
+apicid: 0
+initial apicid: 0
+fpu: si
+fpu_exception: yes
+cpuid level	: 19
+wp: yes
+bogomips	: 6000.00
+clflush size: 64
+cache_alignment: 64
+address sizes: 39 bits physical, 48 bits virtual
+power management:
+processor: 1
+vendor_id: GenuineIntel
+cpu family	: 6
+model: 158
+model name: Intel(R) Core(TM) i5-7400 CPU @ 3.00GHz
+stepping: 9
+microcode	: 0xB4
+cpu MHz: 3000.000
+cache size	: 6144 KB
+physical id	: 0
+siblings: 4
+core id: 1
+cpu cores: 2
+apicid: 2
+initial apicid: 2
+fpu: yes
+fpu_exception: yes
+cpuid level	: 19
+wp: yes
+bogomips	: 6000.00
+clflush size: 64
+cache_alignment: 64
+address sizes: 39 bits physical, 48 bits virtual
+power management:
+processor: 2
+vendor_id: GenuineIntel
+cpu family	: 6
+model: 158
+model name: Intel(R) Core(TM) i5-7400 CPU @ 3.00GHz
+stepping: 9
+microcode	: 0xB4
+cpu MHz: 3000.000
+cache size: 6144 KB
+physical id	: 0
+siblings: 4
+core id: 2
+cpu cores: 2
+apicid: 4
+initial apicid: 4
+fpu: yes
+fpu_exception: yes
+cpuid level	: 19
+wp: yes
+bogomips	: 6000.00
+clflush size: 64
+cache_alignment: 64
+address sizes	: 39 bits physical, 48 bits virtual
+power management:
+processor	: 3
+vendor_id	: GenuineIntel
+cpu family	: 6
+model: 158
+model name: Intel(R) Core(TM) i5-7400 CPU @ 3.00GHz
+stepping: 9
+microcode	: 0xB4
+cpu MHz: 3000.000
+cache size	: 6144 KB
+physical id	: 0
+siblings: 4
+core id: 3
+cpu cores: 2
+apicid: 6
+initial apicid: 6
+fpu: yes
+fpu_exception: yes
+cpuid level	: 19
+wp: yes
+bogomips	: 6000.00
+clflush size: 64
+cache_alignment: 64
+address sizes: 39 bits physical, 48 bits virtual
+power management:
