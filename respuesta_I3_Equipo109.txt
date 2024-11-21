@@ -1,0 +1,20 @@
+Marcos Martin
+Nandin Ezequiel
+
+a- el master quedo igual que el branch de beta
+b- si, beta pudo ver todos los cambios desde el tanto el repositorio como localmente
+c-
+1) git checkout main
+2)git merge (Branch)
+3)git add .
+4)git commit -m
+5)git push
+
+d- no, estas quedan con commits por detras del master
+e- no tuvimos en general problemas con el merge 
+f-
+1)git checkout (Branch)
+2)echo "nombre:,ip config:,hora >> beta.txt
+3)git add beta.txt
+4)git commit -m 
+5)git push
