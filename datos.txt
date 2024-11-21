@@ -1,1 +1,1 @@
-Nombre: Gamma, IP: 192.168.100.1, Hora: Thu Nov 21 00:05:08     2024
+Nombre: Ezequiel Nandin, IP: 192.168.100.1, Hora: Jueves Nov 21 00:05:08     2024
